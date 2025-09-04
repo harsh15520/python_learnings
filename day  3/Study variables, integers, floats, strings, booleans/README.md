@@ -63,7 +63,6 @@ greeting = 'Hello, World!'
 ```
 - *Concatenation:* `"Hi, " + name` results in "Hi, Alice"
 - *Replication:* `'Ho! ' * 3` results in "Ho! Ho! Ho! "
-- *Indexing:* `greeting` gives `'H'`; `greeting[-1]` gives `'!'`
 - *Length:* `len(greeting)`
 - *Immutability:* You can't change `greeting`; you must create a new string.
 
