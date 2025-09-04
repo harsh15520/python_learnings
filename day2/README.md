@@ -6,6 +6,4 @@ Day 2: Environment Setup & First Python Program
 
 • Practice (1 hour): Write your first "Hello World" program, basic print statements
 
-• Evening (30 min): Document setup process in NotebookLM
-
 • Daily goal: Successfully run Python code and understand basic syntax
