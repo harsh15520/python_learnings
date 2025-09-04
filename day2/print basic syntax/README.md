@@ -1,4 +1,4 @@
-The **first "Hello World" program in Python** is one of the simplest programs you can write, using Python's built-in `print()` function to display text on the screen.[1]
+The **first "Hello World" program in Python** is one of the simplest programs you can write, using Python's built-in `print()` function to display text on the screen.
 
 ## Basic "Hello World" Program
 
@@ -11,11 +11,11 @@ This single line of code will output:
 Hello, World!
 ```
 
-The `print()` function is a **built-in function** in Python that tells the program to display something on the screen. The text **"Hello, World!"** is a string (sequence of characters) that must be enclosed in quotation marks.[2][1]
+The `print()` function is a **built-in function** in Python that tells the program to display something on the screen. The text **"Hello, World!"** is a string (sequence of characters) that must be enclosed in quotation marks.
 
 ## Alternative Quote Styles
 
-Python allows you to use different types of quotes to create strings:[1]
+Python allows you to use different types of quotes to create strings:
 
 ```python
 # Using single quotes
@@ -28,18 +28,18 @@ print("Hello, World!")
 print('''Hello, World!''')
 ```
 
-All three methods produce the same output.[1]
+All three methods produce the same output.
 
 ## How the print() Function Works
 
-The `print()` function follows this basic structure:[5]
+The `print()` function follows this basic structure:
 - **print()** is the function name, followed by parentheses
 - Inside the parentheses, you place the **string** (text) you want to display
 - Strings must be enclosed in quotation marks (single, double, or triple)
 
 ## Running Your First Program
 
-To run your "Hello World" program:[3]
+To run your "Hello World" program:
 
 1. **Create a Python file** (e.g., `hello.py`)
 2. **Write the code**: `print("Hello, World!")`
@@ -48,7 +48,7 @@ To run your "Hello World" program:[3]
 
 ## Additional Print Statement Examples
 
-You can expand beyond the basic "Hello World" with these variations:[6][8]
+You can expand beyond the basic "Hello World" with these variations:
 
 ```python
 # Using variables
@@ -66,7 +66,7 @@ print(f"{message}")
 print("Hello, " + "World!")
 ```
 
-The "Hello, World!" program serves as a **traditional first program** for beginners learning any programming language, as it demonstrates basic syntax and helps verify that your programming environment is working correctly.[8][5]
+The "Hello, World!" program serves as a **traditional first program** for beginners learning any programming language, as it demonstrates basic syntax and helps verify that your programming environment is working correctly.
 
 [1](https://www.geeksforgeeks.org/python/python-program-to-print-hello-world/)
 [2](https://www.programiz.com/python-programming/examples/hello-world)
