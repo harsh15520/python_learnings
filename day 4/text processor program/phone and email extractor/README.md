@@ -40,8 +40,3 @@ Phone number and email address extraction leverages **regular expressions (regex
 1. Define regex patterns for phone numbers and emails.  
 2. Use programming language regex functions (e.g., Python’s `re.findall()`) to scan text and **extract all matches**.  
 3. Matches can be collected, formatted, and utilized as needed (e.g., copied to clipboard, saved to files).
-
-
-[7](https://ihateregex.io/expr/phone/)
-[8](https://www.geeksforgeeks.org/dsa/validate-phone-numbers-with-country-code-extension-using-regular-expression/)
-[9](https://codemia.io/knowledge-hub/path/how_to_validate_phone_numbers_using_regex)
