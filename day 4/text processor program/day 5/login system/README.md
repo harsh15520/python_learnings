@@ -99,7 +99,3 @@ elif choice == "login":
 | Basic         | Single user, hardcoded credentials       |
 | Intermediate  | Multiple users, dictionary lookup        |
 | Advanced      | Limited attempts, password masking, registration |
-
-***
-
-Would you like to try building one of these, or add features like password strength checking or persistent storage?
