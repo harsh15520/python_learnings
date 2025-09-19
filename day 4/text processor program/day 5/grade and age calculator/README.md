@@ -125,5 +125,3 @@ except ValueError:
 | Advanced     | Input validation, error handling  | Nested club member check, errors  |
 
 ***
-
-**Would you like to try writing your own advanced classifier, or see how to add more features (like custom messages or data storage)?**
